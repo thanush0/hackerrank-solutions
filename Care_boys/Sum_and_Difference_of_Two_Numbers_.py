@@ -1,0 +1,6 @@
+a,b=map(int,input().split())
+x,y=map(float,input().split())
+print(a+b,end=" ")
+print(a-b)
+print(float(x+y),end=" ")
+print(float(x-y))

@@ -1,0 +1,1 @@
+print("Let\'s learn \'C\' together with MySlate team")
